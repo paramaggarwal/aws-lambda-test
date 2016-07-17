@@ -1,0 +1,9 @@
+
+{
+  "name": "Test",
+  "description": "Trying out Apex",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::288057418396:role/Test_lambda_function",
+  "environment": {}
+}
